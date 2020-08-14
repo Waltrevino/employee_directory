@@ -29,7 +29,7 @@ Enter an employee's name.
 
 ## Walkthrough
 
-<img src="images/employee_directory.png" width="auto">
+<img src="./public/employee_directory.png" width="auto">
 
 ## API Used
 
